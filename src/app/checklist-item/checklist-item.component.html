@@ -1,0 +1,89 @@
+<div class="checklist-container">
+  <div class="portrait-container-helper">
+    <div class="portrait-container">
+      <img class="item-image" src="assets/imgs/items/{{img}}.png" alt="{{img}}" width="80px">
+    </div>
+  </div>
+  <div class="info-container">
+    <div class="name">
+    {{item.name | titlecase}}
+    </div>
+  </div>
+
+  <div *ngIf="domain && (count > 0|| count == -3)" class="domain-container">
+    <div class="domain-image-container">
+      <img src="assets/imgs/domains/violet_court.webp" class="domain-image">
+      <figcaption> {{domain | titlecase}} </figcaption>
+    </div>
+    <div class="domain-day-container">
+      <div>
+        <b>Available:</b>
+      </div>
+      <div *ngFor="let day of days" class="domain-day">
+        {{day | titlecase}}
+      </div>
+    </div>
+  </div>
+  <div *ngIf="variants" class="variant-container">
+    <div *ngFor="let variant of variants" class="variant">
+      <img src="assets/imgs/items/{{variant.replaceAll(' ','_').replaceAll('\'','')}}.png" width="60px" alt="{{variant}}">
+      <figcaption> {{variant | titlecase}} </figcaption>
+    </div>
+  </div>
+  <div class="boss-container" *ngIf="boss">
+    <div class="boss">
+      <img src="assets/imgs/bosses/{{boss.replaceAll(' ','_').replaceAll('\'','')}}.webp" height="70px">
+      <figcaption> {{boss | titlecase}} </figcaption>
+    </div>
+  </div>
+  <div class="region-container" *ngIf="region">
+    <div class="region">
+      <img src="assets/imgs/elements/{{regionElement}}.png" >
+      <figcaption> {{region | titlecase}} </figcaption>
+    </div>
+  </div>
+  <!--<div *ngIf="count > 0" class="checkmark-container">
+    <div class="checkmark">
+      <img (click)="markComplete()" class="checkmark-image" src="assets/imgs/checkmark.webp" width="100%" height="100%">
+    </div>
+  </div>
+  <div *ngIf="count == -1" class="checkmark-container">
+    <div class="checkmark">
+      <img (click)="unmarkComplete()" class="checkmark-image" src="assets/imgs/redo.png" width="100%" height="100%">
+      <figcaption> Undo </figcaption>
+    </div>
+  </div>
+  <div *ngIf="count == -1" class="checkmark-container">
+    <div class="checkmark">
+      <img (click)="markSnooze()" class="checkmark-image" src="assets/imgs/zzz.png" width="100%" height="100%">
+      <figcaption> Snooze </figcaption>
+    </div>
+  </div>
+  <div *ngIf="count == -2" class="checkmark-container">
+    <div class="checkmark">
+      <img (click)="unmarkSnooze()" class="checkmark-image" src="assets/imgs/redo.png" width="100%" height="100%">
+      <figcaption> Undo </figcaption>
+    </div>
+  </div>-->
+  <div *ngIf="count != -3" class="icon-container">
+    <div class="pad-left"></div>
+    <div *ngIf="count > 0" class="icon">
+        <img (click)="markComplete()" class="checkmark-image btn btn-outline-primary ms-2" src="assets/imgs/checkmark.webp" width="100%" height="100%">
+      <figcaption> Complete </figcaption>
+
+    </div>
+    <div *ngIf="count == -1" class="icon">
+        <img (click)="unmarkComplete()" class="checkmark-image btn btn-outline-primary ms-2" src="assets/imgs/redo.png" width="100%" height="100%">
+        <figcaption> Undo </figcaption>
+    </div>
+    <div *ngIf="count > 0 || count == -1" class="icon">
+        <img (click)="markSnooze()" class="checkmark-image btn btn-outline-primary ms-2" src="assets/imgs/zzz.png" width="100%" height="100%">
+        <figcaption> Snooze </figcaption>
+    </div>
+    <div *ngIf="count == -2" class="icon">
+        <img (click)="unmarkSnooze()" class="checkmark-image btn btn-outline-primary ms-2" src="assets/imgs/redo.png" width="100%" height="100%">
+        <figcaption> Undo </figcaption>
+    </div>
+    <div class="pad-left"></div>
+  </div>
+</div>

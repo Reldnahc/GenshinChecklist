@@ -1,0 +1,140 @@
+[
+  {
+    "name": "everflame seed",
+    "boss": "pyro regisvine",
+    "wiki": "https://genshin-impact.fandom.com/wiki/everflame_seed",
+    "region": "liyue",
+    "characters": [
+      "amber",
+      "bennett",
+      "diluc",
+      "klee",
+      "xiangling",
+      "xinyan"
+    ]
+  },
+  {
+    "name": "hurricane seed",
+    "boss": "anemo hypostasis",
+    "wiki": "https://genshin-impact.fandom.com/wiki/hurricane_seed",
+    "region": "mondstadt",
+    "characters": [
+      "jean",
+      "sucrose",
+      "venti"
+    ]
+  },
+  {
+    "name": "hoarfrost core",
+    "boss": "cryo regisvine",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Hoarfrost_Core",
+    "region": "mondstadt",
+    "characters": [
+      "chongyun",
+      "diona",
+      "ganyu",
+      "kaeya",
+      "qiqi",
+      "rosaria"
+    ]
+  },
+  {
+    "name": "shadow of the warrior",
+    "boss": "enter the golden house",
+    "region": "liyue",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Shadow_of_the_Warrior",
+    "characters": [
+      "xiao",
+      "ganyu",
+      "rosaria"
+    ]
+  },
+  {
+    "name": "tusk of monoceros caeli",
+    "boss": "enter the golden house",
+    "region": "liyue",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Tusk_of_Monoceros_Caeli",
+    "characters": [
+      "albedo",
+      "xinyan",
+      "zhongli"
+    ]
+  },
+  {
+    "name": "basalt pillar",
+    "boss": "geo hypostasis",
+    "region": "liyue",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Basalt_Pillar",
+    "characters": [
+      "albedo",
+      "ningguang",
+      "noelle",
+      "zhongli"
+    ]
+  },
+  {
+    "name": "perpetual heart",
+    "boss": "perpetual mechanical array",
+    "region": "inazuma",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Perpetual_Heart",
+    "characters": [
+      "kamisato ayaka",
+      "gorou"
+    ]
+  },
+  {
+    "name": "bloodjade branch",
+    "boss": "beneath the dragon-queller",
+    "region": "inazuma",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Bloodjade_Branch",
+    "characters": [
+      "kamisato ayaka",
+      "yanfei",
+      "dori"
+    ]
+  },
+  {
+    "name": "dvalin's claw",
+    "boss": "confront stormterror",
+    "region": "mondstadt",
+    "wiki": "https://genshin-impact.fandom.com/wiki/dvalin%27s_claw",
+    "characters": [
+      "lisa",
+      "noelle",
+      "razor",
+      "xiangling"
+    ]
+  },
+  {
+    "name": "juvenile jade",
+    "boss": "primo geovishap",
+    "region": "liyue",
+    "wiki": "https://genshin-impact.fandom.com/wiki/dvalin%27s_claw",
+    "characters": [
+      "hu tao",
+      "xiao",
+      "yanfei"
+    ]
+  },
+  {
+    "name": "dew of repudiation",
+    "boss": "hydro hypostasis",
+    "region": "inazuma",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Dew_of_Repudiation",
+    "characters": [
+      "ayato",
+      "kokomi"
+    ]
+  },
+  {
+    "name": "mudra of the malefic general",
+    "boss": "end of the oneiric euthymia",
+    "region": "inazuma",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Mudra_of_the_Malefic_General",
+    "characters": [
+      "ayato",
+      "traveler",
+      "cyno"
+    ]
+  }
+]

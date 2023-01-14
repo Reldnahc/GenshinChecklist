@@ -1,0 +1,57 @@
+.info-bubble{
+  display: none;
+  position: absolute;
+  height: auto;
+  width: 150px;
+  background-color: rgba(0, 0, 0, 0.95);
+
+}
+
+.character-image-container:hover .info-bubble{
+  display: block;
+  position: absolute;
+  z-index: 1;
+  border-radius: 5px;
+}
+
+.character-image-container:hover .info-bubble:after{ /*the span will display just on :hover state*/
+  content:'';
+  position: absolute;
+  left: 45%;
+  top: 100%;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 10px solid rgba(0, 0, 0, 0.95);
+}
+.info-bubble-container{
+  position: relative;
+  top: -240px;
+  left: -12px;
+}
+.bubble-img{
+  display: inline-block;
+  width: 25%;
+  padding: .5em;
+}
+.character-image-container{
+
+}
+
+.character-image{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+.image-container.selected{
+  background-color: rgba(0, 204, 204, 0.8);
+  border-color: rgba(0, 204, 204, 1);
+  border-radius: 5px;
+}
+
+.image-container:hover {
+  border-width: 1px;
+  border-color: rgba(0, 204, 204, 1);
+  border-radius: 5px;
+  border-style: solid ;
+}

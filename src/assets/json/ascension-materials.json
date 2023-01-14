@@ -1,0 +1,402 @@
+[
+  {
+    "name": "slime slimes",
+    "enemies": [
+      "slimes"
+    ],
+    "wiki": "https://genshin-impact.fandom.com/wiki/Slime_Slime",
+    "ascensionCharacters": [
+      "itto",
+      "lisa",
+      "venti",
+      "xiangling",
+      "xiao",
+      "zhongli"
+    ],
+    "talentCharacters": [
+      "itto",
+      "lisa",
+      "venti",
+      "xiangling",
+      "xiao",
+      "zhongli"
+    ],
+    "weapons": [
+      "amos' bow",
+      "lost prayer to the sacred winds",
+      "skyward blade",
+      "skyward pride",
+      "staff of homa",
+      "alley hunter",
+      "favonius lance",
+      "luxurious sea-lord",
+      "mappa mare",
+      "missive windspear",
+      "royal greatsword",
+      "sacrificial bow",
+      "snow-tombed starsilver",
+      "the black sword",
+      "the flute",
+      "harbinger of dawn",
+      "magic guide",
+      "sharp-shooter's oath",
+      "white iron greatsword",
+      "old merc's pal",
+      "waster greatsword"
+    ],
+    "drops" : {
+      "common": "slime condensate",
+      "uncommon": "slime secretions",
+      "rare": "slime concentrate",
+      "epic": null
+    }
+  },
+  {
+    "name": "hilichurl masks",
+    "enemies": [
+      "hilichurls",
+      "samachurls",
+      "mitachurls",
+      "lawachurls"
+    ],
+    "wiki": "https://genshin-impact.fandom.com/wiki/Hilichurl_Mask",
+    "ascensionCharacters": [
+      "chongyun",
+      "eula",
+      "jean",
+      "kujou sara",
+      "noelle",
+      "razor",
+      "zingqiu",
+      "yun jin"
+    ],
+    "talentCharacters": [
+      "chongyun",
+      "traveler",
+      "eula",
+      "jean",
+      "kujou sara",
+      "noelle",
+      "razor",
+      "zingqiu",
+      "yun jin"
+    ],
+    "weapons": [
+      "memory of dust",
+      "song of broken pines",
+      "summit shaper",
+      "cinnabar spindle",
+      "dodoco tales",
+      "eye of perception",
+      "prototype archaic",
+      "prototype starglitter",
+      "rust",
+      "the widsith",
+      "dark iron sword",
+      "debate club",
+      "otherworldly story",
+      "slingshot",
+      "pocket grimoire",
+      "apprentice's notes"
+    ],
+    "drops" : {
+      "common": "damaged mask",
+      "uncommon": "stained mask",
+      "rare": "ominous mask",
+      "epic": null
+    }
+  },
+  {
+    "name": "samachurl scrolls",
+    "enemies": [
+      "samachurls"
+    ],
+    "wiki": "https://genshin-impact.fandom.com/wiki/Samachurl_Scroll",
+    "ascensionCharacters": [
+      "albedo",
+      "barbara",
+      "cyno",
+      "klee",
+      "layla",
+      "qiqi",
+      "yoimiya"
+    ],
+    "talentCharacters": [
+      "albedo",
+      "barbara",
+      "cyno",
+      "klee",
+      "layla",
+      "qiqi",
+      "traveler",
+      "yoimiya"
+    ],
+    "weapons": [
+      "freedom-sworn",
+      "skyward spine",
+      "wolf's gravestone",
+      "blackcliff agate",
+      "dragon's bane",
+      "fading twilight",
+      "favonius codex",
+      "hakushin ring",
+      "rainslasher",
+      "royal bow",
+      "sacrificial sword",
+      "the alley flash",
+      "recurve bow",
+      "thrilling tales of dragon slayers",
+      "traveler's handy sword",
+      "iron point",
+      "beginner's protector"
+    ],
+    "drops" : {
+      "common": "divining scroll",
+      "uncommon": "sealed scroll",
+      "rare": "forbidden curse scroll",
+      "epic": null
+    }
+  },
+  {
+    "name": "fatui insignia",
+    "enemies": [
+      "fatui skrimishers",
+      "fatui cicin mages",
+      "fatui pyro agent"
+    ],
+    "wiki": "https://genshin-impact.fandom.com/wiki/Samachurl_Scroll",
+    "ascensionCharacters": [
+      "diluc",
+      "ningguang",
+      "rosaria",
+      "tartalia",
+      "yelan"
+    ],
+    "talentCharacters": [
+      "diluc",
+      "ningguang",
+      "rosaria",
+      "tartalia",
+      "yelan"
+    ],
+    "weapons": [
+      "elegy for the end",
+      "primordial jade winged-spear",
+      "blackcliff pole",
+      "blackcliff slasher",
+      "compound bow",
+      "dragonspine spear",
+      "favonius greatsword",
+      "festering desire",
+      "moonpiercer",
+      "prototype rancour",
+      "royal grimoire",
+      "royal spear",
+      "skyrider sword",
+      "twin nephrite",
+      "white tassel"
+
+    ],
+    "drops" : {
+      "common": "recruit's insignia",
+      "uncommon": "sergeant's insignia",
+      "rare": "lieutenant's insignia",
+      "epic": null
+    }
+  },
+  {
+    "name": "samachurl scrolls",
+    "enemies": [
+      "samachurls"
+    ],
+    "wiki": "https://genshin-impact.fandom.com/wiki/Samachurl_Scroll",
+    "ascensionCharacters": [
+      "albedo",
+      "barbara",
+      "cyno",
+      "klee",
+      "layla",
+      "qiqi",
+      "yoimiya"
+    ],
+    "talentCharacters": [
+      "albedo",
+      "barbara",
+      "cyno",
+      "klee",
+      "layla",
+      "qiqi",
+      "traveler",
+      "yoimiya"
+    ],
+    "weapons": [
+      "freedom-sworn",
+      "skyward spine",
+      "wolf's gravestone",
+      "blackcliff agate",
+      "dragon's bane",
+      "fading twilight",
+      "favonius codex",
+      "hakushin ring",
+      "rainslasher",
+      "royal bow",
+      "sacrificial sword",
+      "the alley flash",
+      "recurve bow",
+      "thrilling tales of dragon slayers",
+      "traveler's handy sword",
+      "iron point",
+      "beginner's protector"
+    ],
+    "drops" : {
+      "common": "divining scroll",
+      "uncommon": "sealed scroll",
+      "rare": "forbidden curse scroll",
+      "epic": null
+    }
+  },
+  {
+    "name": "fatui insignia",
+    "enemies": [
+      "fatui skrimishers",
+      "fatui cicin mages",
+      "fatui pyro agent"
+    ],
+    "wiki": "https://genshin-impact.fandom.com/wiki/Samachurl_Scroll",
+    "ascensionCharacters": [
+      "diluc",
+      "ningguang",
+      "rosaria",
+      "tartalia",
+      "yelan"
+    ],
+    "talentCharacters": [
+      "diluc",
+      "ningguang",
+      "rosaria",
+      "tartalia",
+      "yelan"
+    ],
+    "weapons": [
+      "elegy for the end",
+      "primordial jade winged-spear",
+      "blackcliff pole",
+      "blackcliff slasher",
+      "compound bow",
+      "dragonspine spear",
+      "favonius greatsword",
+      "festering desire",
+      "moonpiercer",
+      "prototype rancour",
+      "royal grimoire",
+      "royal spear",
+      "skyrider sword",
+      "twin nephrite",
+      "white tassel"
+
+    ],
+    "drops" : {
+      "common": "recruit's insignia",
+      "uncommon": "sergeant's insignia",
+      "rare": "lieutenant's insignia",
+      "epic": null
+    }
+  },
+  {
+    "name": "nobushi handguard",
+    "enemies": [
+      "kairagi: dancing thunder",
+      "kairagi: fiery might",
+      "nobushi: hitsukeban",
+      "nobushi: jintouban",
+      "nobushi: kikouban"
+    ],
+    "wiki": "https://genshin-impact.fandom.com/wiki/Nobushi_Handguard",
+    "ascensionCharacters": [
+      "kamisato ayaka",
+      "ayato",
+      "raiden",
+      "wanderer",
+      "yae miko"
+    ],
+    "talentCharacters": [
+      "kamisato ayaka",
+      "ayato",
+      "raiden",
+      "wanderer",
+      "traveler",
+      "yae miko"
+    ],
+    "weapons": [
+      "engulfing lightning",
+      "haran geppaku futsu",
+      "mistsplitter reforged",
+      "redhorn stone-thresher",
+      "akuoumaru",
+      "amenoma kageuchi",
+      "katsuragi-kiri nagamasa",
+      "toukabou shigure",
+      "wave-breaker's fin"
+    ],
+    "drops" : {
+      "common": "old handguard",
+      "uncommon": "kageuchi handguard",
+      "rare": "famed handguard",
+      "epic": null
+    }
+  },
+  {
+    "name": "treasure hoarder material",
+    "enemies": [
+      "treasure hoarder"
+    ],
+    "wiki": "https://genshin-impact.fandom.com/wiki/Treasure_Hoarder_Material",
+    "ascensionCharacters": [
+      "beidou",
+      "bennett",
+      "kazuha",
+      "kaeya",
+      "heizou",
+      "thoma",
+      "xinyan",
+      "yanfei"
+    ],
+    "talentCharacters": [
+      "beidou",
+      "bennett",
+      "kazuha",
+      "kaeya",
+      "heizou",
+      "thoma",
+      "xinyan",
+      "yanfei"
+    ],
+    "weapons": [
+      "the unforged",
+      "primordial jade cutter",
+      "vortex vanquisher",
+      "crescent pike",
+      "kitain cross spear",
+      "lion's roar",
+      "makhaira aquamarine",
+      "mitternachts waltz",
+      "prototype crescent",
+      "sacrificial fragments",
+      "sword of descension",
+      "whiteblind",
+      "wine and song",
+      "emerald orb",
+      "fillet blade",
+      "messenger",
+      "skyrider greatsword",
+      "seasoned hunter's bow",
+      "hunter's bow"
+    ],
+    "drops" : {
+      "common": "treasure hoarder insignia",
+      "uncommon": " silver raven insignia",
+      "rare": "golden raven insignia",
+      "epic": null
+    }
+  }
+]

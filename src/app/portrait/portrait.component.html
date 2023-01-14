@@ -1,0 +1,17 @@
+
+<div class="character-image-container">
+  <div class="image-container" [class.selected]="status" (click)="toggle()">
+    <img class="character-image" src="/assets/imgs/characters/{{character.name.replace(' ','_')}}.png" alt="{{character.name}}'s portrait">
+  </div>
+  <div class="info-bubble-container">
+    <div class="info-bubble">
+      <img class="bubble-img" *ngIf="gem" src="/assets/imgs/items/{{gem}}.png" alt="{{gem}}">
+      <img class="bubble-img" *ngIf="regionalSpecialty" src="/assets/imgs/items/{{regionalSpecialty}}.png" alt="{{regionalSpecialty}}">
+      <img class="bubble-img" *ngIf="ascensionMaterial" src="/assets/imgs/items/{{ascensionMaterial}}.png" alt="{{ascensionMaterial}}">
+      <img class="bubble-img" *ngIf="bossMaterial" src="/assets/imgs/items/{{bossMaterial}}.png" alt="{{bossMaterial}}">
+      <img class="bubble-img" *ngIf="talentMaterial" src="/assets/imgs/items/{{talentMaterial}}.png" alt="{{talentMaterial}}">
+      <img class="bubble-img" *ngIf="weeklyBossMaterial" src="/assets/imgs/items/{{weeklyBossMaterial}}.png" alt="{{weeklyBossMaterial}}">
+    </div>
+  </div>
+</div>
+

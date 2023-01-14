@@ -1,0 +1,96 @@
+[
+  {
+    "name": "ballad book",
+    "domain": "forsaken rift",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Ballad_Book",
+    "characters": [
+      "albedo",
+      "fischl",
+      "kaeya",
+      "lisa",
+      "traveler",
+      "rosaria",
+      "venti"
+    ],
+    "days": [
+      "wednesday",
+      "saturday",
+      "sunday"
+    ],
+    "items": {
+      "uncommon": "teachings of ballad",
+      "rare": "guide to ballad",
+      "epic": "philosophies of ballad"
+    }
+  },
+  {
+    "name": "elegance book",
+    "domain": "violet court",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Elegance_Book",
+    "characters": [
+      "itto",
+      "kamisato ayaka",
+      "ayato",
+      "kujou sara",
+      "traveler",
+      "shinobu"
+    ],
+    "days": [
+      "tuesday",
+      "friday",
+      "sunday"
+    ],
+    "items": {
+      "uncommon": "teachings of elegance",
+      "rare": "guide to elegance",
+      "epic": "philosophies of elegance"
+    }
+  },
+  {
+    "name": "gold book",
+    "domain": "taishan mansion",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Gold_Book",
+    "characters": [
+      "beidu",
+      "traveler",
+      "xingqiu",
+      "xinyan",
+      "yanfei",
+      "zhongli"
+    ],
+    "days": [
+      "wednesday",
+      "saturday",
+      "sunday"
+    ],
+    "items": {
+      "uncommon": "teachings of gold",
+      "rare": "guide to gold",
+      "epic": "philosophies of gold"
+    }
+  },
+  {
+    "name": "diligence",
+    "domain": "taishan mansion",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Diligence_Book",
+    "characters": [
+      "chongyun",
+      "traveler",
+      "ganyu",
+      "hu tao",
+      "xiangling",
+      "yun jin",
+      "kazuha"
+    ],
+    "days": [
+      "tuesday",
+      "friday",
+      "sunday"
+    ],
+    "items": {
+      "uncommon": "teachings of diligence",
+      "rare": "guide to diligence",
+      "epic": "philosophies of diligence"
+    }
+  }
+]

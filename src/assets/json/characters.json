@@ -1,0 +1,68 @@
+[
+  {
+    "name": "albedo",
+    "element": "geo",
+    "rarity": "5",
+    "weapon": "sword",
+    "regionalSpecialty": "cecilia",
+    "bossMaterial": "basalt pillar",
+    "ascensionMaterial": "samachurl scrolls",
+    "talentMaterial": "ballad book",
+    "weeklyBossMaterial": "tusk of monoceros caeli"
+  },
+  {
+    "name": "rosaria",
+    "element": "cryo",
+    "rarity": "4",
+    "weapon": "polearm",
+    "regionalSpecialty": "valberry",
+    "bossMaterial": "hoarfrost core",
+    "ascensionMaterial": "fatui insignia",
+    "talentMaterial": "ballad book",
+    "weeklyBossMaterial": "shadow of the warrior"
+  },
+  {
+    "name": "xiangling",
+    "element": "pyro",
+    "rarity": "4",
+    "weapon": "polearm",
+    "regionalSpecialty": "jueyun chili",
+    "bossMaterial": "everflame seed",
+    "ascensionMaterial": "slime slimes",
+    "talentMaterial": "diligence",
+    "weeklyBossMaterial": "dvalin's claw"
+  },
+  {
+    "name": "yanfei",
+    "element": "pyro",
+    "rarity": "4",
+    "weapon": "polearm",
+    "regionalSpecialty": "noctilucous jade",
+    "bossMaterial": "juvenile jade",
+    "ascensionMaterial": "treasure hoarder material",
+    "talentMaterial": "gold book",
+    "weeklyBossMaterial": "bloodjade branch"
+  },
+  {
+    "name": "kamisato ayaka",
+    "element": "cryo",
+    "rarity": "5",
+    "weapon": "sword",
+    "regionalSpecialty": "sakura bloom",
+    "bossMaterial": "perpetual heart",
+    "ascensionMaterial": "nobushi handguard",
+    "talentMaterial": "elegance book",
+    "weeklyBossMaterial": "bloodjade branch"
+  },
+  {
+    "name": "kamisato ayato",
+    "element": "hydro",
+    "rarity": "5",
+    "weapon": "sword",
+    "regionalSpecialty": "sakura bloom",
+    "bossMaterial": "dew of repudiation",
+    "ascensionMaterial": "nobushi handguard",
+    "talentMaterial": "elegance book",
+    "weeklyBossMaterial": "mudra of the malefic general"
+  }
+]

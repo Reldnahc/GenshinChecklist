@@ -1,0 +1,9 @@
+.config-button-container{
+  position: fixed;
+  width: 100%;
+  display: flex;
+}
+.button-container{
+  padding-left: 20px;
+
+}

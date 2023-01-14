@@ -1,0 +1,56 @@
+[
+  {
+    "name": "calla lily",
+    "region": "mondstadt",
+    "wiki": "https://genshin-impact.fandom.com/wiki/calla_lily",
+    "characters": [
+      "diona",
+      "kaeya"
+    ]
+  },
+  {
+    "name": "cecilia",
+    "region": "mondstadt",
+    "wiki": "https://genshin-impact.fandom.com/wiki/cecilia",
+    "characters": [
+      "albedo",
+      "venti"
+    ]
+  },
+  {
+    "name": "valberry",
+    "region": "mondstadt",
+    "wiki": "https://genshin-impact.fandom.com/wiki/valberry",
+    "characters": [
+      "lisa",
+      "noelle",
+      "rosaria"
+    ]
+  },
+  {
+    "name": "sakura bloom",
+    "region": "inazuma",
+    "wiki": "https://genshin-impact.fandom.com/wiki/Sakura_Bloom",
+    "characters": [
+      "kamisato ayaka",
+      "ayato"
+    ]
+  },
+  {
+    "name": "jueyun chili",
+    "region": "liyue",
+    "wiki": "https://genshin-impact.fandom.com/wiki/jueyun_chili",
+    "characters": [
+      "xiangling"
+    ]
+  },
+  {
+    "name": "noctilucous jade",
+    "region": "liyue",
+    "wiki": "https://genshin-impact.fandom.com/wiki/noctilucous_jade",
+    "characters": [
+      "yanfei",
+      "beidou"
+    ]
+  }
+]
